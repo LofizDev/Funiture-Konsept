@@ -1,1 +1,3 @@
+# FURNITURE SHOP-KONSEPT WITH REDUX
 
+Build React Funiture Shopping with REDUX | REACTJS,REDUX
